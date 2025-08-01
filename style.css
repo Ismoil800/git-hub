@@ -1,0 +1,44 @@
+body { background-color: rgb(155, 12, 12);}
+.a { background-color: aqua; 
+text-align: center; 
+color: aliceblue; }
+.aa {
+    height: 650px;
+    background-color: bisque; 
+   
+}
+.bir .twit{
+width: 100px;
+height: 100px;
+}
+.bir .inst{
+width: 200px;
+height: 100px;
+}
+
+
+.bir{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid black;
+     margin-top: 10px;
+     border-radius: 10px;
+}
+button{
+    width: 100px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.bir .youtube { 
+    width: 100px;
+    height: 70px;
+}
+
+
+
+
